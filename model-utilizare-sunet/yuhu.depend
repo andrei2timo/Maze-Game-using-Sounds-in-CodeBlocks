@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1528213485 source:f:\programare\yuhu\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<graphics.h>
+	<mmsystem.h>
+
+1528213485 source:c:\users\andrei\desktop\proiecte info 11-29\mara ioana popa, vlahi ana-maria\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<graphics.h>
+	<mmsystem.h>
+
+1528213485 source:c:\users\andrei\desktop\proiecte info 11-29\24,29\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<graphics.h>
+	<mmsystem.h>
+
+1528217085 source:c:\users\vneag\desktop\proiecte-10d\popa si vlahi-labirint-prizonier\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<graphics.h>
+	<mmsystem.h>
+
+1528217085 source:c:\users\vneag\desktop\proiecte-10d\popa si vlahi-labirint-prizonier-10\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<graphics.h>
+	<mmsystem.h>
+
+1528217085 source:c:\users\suvit\desktop\model-utilizare-sunet\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<graphics.h>
+	<mmsystem.h>
+
+1528209885 source:e:\cnmk - liceu\clasa a 11-a\informatica\lucrate in clasa\model-utilizare-sunet\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<graphics.h>
+	<mmsystem.h>
+
